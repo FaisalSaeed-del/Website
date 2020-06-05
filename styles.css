@@ -1,0 +1,46 @@
+.navbar{
+    padding: 0%;
+    background-color:dodgerblue !important;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+.btn{
+    color: floralwhite !important;
+}
+.nav-link{
+    color: floralwhite !important;
+}
+.fa-truck,.fa-headphones,.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: dodgerblue !important;
+}
+.card1,.card2,.card3{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    box-shadow:2px ;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+}
+h3{
+    color: dodgerblue !important;
+}
+
+.maincard{
+
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer{
+
+    background-color: dodgerblue !important;
+    width: 100%;
+    margin-top: 20px;
+    padding: 40px;
+}
